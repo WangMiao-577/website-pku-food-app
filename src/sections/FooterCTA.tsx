@@ -102,7 +102,7 @@ export default function FooterCTA() {
           {/* Download buttons */}
           <div className="flex flex-wrap gap-4">
             <a
-              href="https://github.com/WangMiao-577/pku_food_recommender"
+              href="https://github.com/WangMiao-577/pku_food_recommender/releases/download/Norm/PKUFoodRecommender_Setup_2.0.0.exe"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-white px-8 py-3.5 text-sm font-medium transition-all duration-200 hover:scale-[0.98]"
@@ -118,7 +118,7 @@ export default function FooterCTA() {
               下载 Installer
             </a>
             <a
-              href="https://github.com/WangMiao-577/pku_food_recommender/releases/download/Norm/PKUFoodRecommender_Setup_2.0.0.exe"
+              href="https://github.com/WangMiao-577/pku_food_recommender"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-white/80 px-8 py-3.5 text-sm border border-white/20 hover:border-white/40 hover:text-white transition-all duration-200"
